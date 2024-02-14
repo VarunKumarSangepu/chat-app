@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+form label,input{
+    display: block;
+    width: 100%vw;
+    margin: 10px 0;
+    font-family: sans-serif;
+    color:rgb(72, 31, 80);
+}
+btn a{
+    text-decoration: none;
+}
+button{
+    background-color: rgb(38, 124, 210);
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+form{
+    margin: 10px;
+    padding: 5px;
+}
+header{
+    background-color: rgb(172, 47, 255);
+    height: 50px;
+    color:white;
+    padding-top: 5px;
+}
